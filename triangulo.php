@@ -11,7 +11,7 @@
 <body>
     <?php
     $asterisco = ""; #declaro el string para ir acumulando los asteriscos para generar la figura
-
+#prueba git
     #el primer for es para el nivel en donde se dibujara, para esto utilice el limite 
     for ($i = 0; $i < $_REQUEST['limite']; $i++) {
         #este segundo for es para el el numero de asteriscos que se agregaran en el string, para esto utilice el incremento 
